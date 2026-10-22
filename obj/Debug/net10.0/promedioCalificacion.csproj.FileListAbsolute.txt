@@ -1,0 +1,14 @@
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/bin/Debug/net10.0/promedioCalificacion
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/bin/Debug/net10.0/promedioCalificacion.deps.json
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/bin/Debug/net10.0/promedioCalificacion.runtimeconfig.json
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/bin/Debug/net10.0/promedioCalificacion.dll
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/bin/Debug/net10.0/promedioCalificacion.pdb
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/obj/Debug/net10.0/promedioCalificacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/obj/Debug/net10.0/promedioCalificacion.AssemblyInfoInputs.cache
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/obj/Debug/net10.0/promedioCalificacion.AssemblyInfo.cs
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/obj/Debug/net10.0/promedioCalificacion.csproj.CoreCompileInputs.cache
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/obj/Debug/net10.0/promedioCalificacion.dll
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/obj/Debug/net10.0/refint/promedioCalificacion.dll
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/obj/Debug/net10.0/promedioCalificacion.pdb
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/obj/Debug/net10.0/promedioCalificacion.genruntimeconfig.cache
+/home/crixfer/Documents/C# Course/promCali/promedioCalificacion/obj/Debug/net10.0/ref/promedioCalificacion.dll
